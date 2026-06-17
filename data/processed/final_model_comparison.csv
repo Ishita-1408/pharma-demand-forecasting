@@ -1,0 +1,9 @@
+Product,SARIMAX MAPE (%),Prophet MAPE (%),Best Model
+Clonazap-0.5,2.28,6.4,SARIMAX
+Fluox-20,3.16,137.39,SARIMAX
+Psychoril-25,3.6,28.49,SARIMAX
+Alprazone-0.25,4.06,11.16,SARIMAX
+Escitab-10,4.67,29.06,SARIMAX
+Risperidon-2,5.64,56.99,SARIMAX
+Quetinil-100,11.09,21.86,SARIMAX
+Lithosun-SR,25.08,22.29,Prophet
